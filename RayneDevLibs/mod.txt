@@ -1,0 +1,8 @@
+[mod]
+name="RayneDevLibs"
+id="rayne_dev_libs"
+version="1.0.0"
+priority=0
+
+[autoload]
+RayneDevLibsMain="res://mods/RayneDevLibs/Main.gd"
